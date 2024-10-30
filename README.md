@@ -12,7 +12,7 @@ Agile leadership or scrum master | Agile software development | Test driven deve
 
 ## 🛠️ My Skills
 
-- **Languages & Frameworks**:
+- **Languages & Frameworks**  
     ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
     ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,17 +33,17 @@ Agile leadership or scrum master | Agile software development | Test driven deve
     ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
     ![Mason](https://img.shields.io/badge/Mason-39457E?style=for-the-badge&logo=perl&logoColor=white)
     
-- **Databases**:
+- **Databases**  
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Blockchain & Web3**:
+- **Blockchain & Web3**  
     ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
     ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
     ![Ether.js](https://img.shields.io/badge/Ether.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-- **Other Technologies**:
+- **Other Technologies**  
     ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
     ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
