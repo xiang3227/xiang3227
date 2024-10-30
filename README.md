@@ -8,45 +8,22 @@ With a rich experience in creating user interfaces and enhancing user engagement
 
 ## 🛠️ Core Competencies
 
-- Programming languages
-- Code structure & architecture
-- Web performance optimization
-- Front-end & back-end web development
-- Agile leadership or scrum master
-- Agile software development
-- Test driven development
-- Source control
+- Programming languages  - Code structure & architecture  - Web performance optimization  - Front-end & back-end web development
+- Agile leadership or scrum master  - Agile software development  - Test driven development  - Source control
 
 ## 🛠️ My Skills
 
 - **Languages & Frameworks**:
-  - React.js/Next.js
-  - JavaScript/TypeScript
-  - jQuery
-  - HTML + CSS
-  - React Native
-  - Vue.js
-  - MUI
-  - Node.js/Express.js
-  - Python/Django
-  - Python/Flask
-  - PHP/Laravel
-  - Perl/Mason
-
+  - React.js/Next.js  - JavaScript/TypeScript  - jQuery  - HTML + CSS  - React Native  - Vue.js  - MUI  - Node.js/Express.js  - Python/Django  - Python/Flask  - PHP/Laravel  - Perl/Mason
+  - 
 - **Databases**:
-  - MongoDB
-  - MySQL/PostgreSQL
+  - MongoDB  - MySQL/PostgreSQL
 
 - **Blockchain & Web3**:
-  - Solidity
-  - Web3/ether.js
+  - Solidity  - Web3/ether.js
 
 - **Other Technologies**:
-  - GraphQL
-  - Flutter
-  - JSON/XML
-  - AWS/Firebase
-  - GitHub
+  - GraphQL  - Flutter  - JSON/XML  - AWS/Firebase  - GitHub
 
 ## 📊 GitHub Stats
 
@@ -57,10 +34,5 @@ With a rich experience in creating user interfaces and enhancing user engagement
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ByteWorldArchitect&theme=onedark)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ByteWorldArchitect&theme=react-dark)
-
 
 ---
