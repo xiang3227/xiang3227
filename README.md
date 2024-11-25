@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
-👋 Hey there! I'm that code wizard who turns caffeine into beautiful interfaces, making users go "Wow!" with 30% better engagement and apps that run 40% faster! 🚀
-🎨 By day, I'm dancing with React.js, Vue.js, and Node.js, while moonlighting as a blockchain sorcerer keeping AWS running smoother than a buttered penguin (99.9% uptime!) ✨
+👋 Hey there! I'm that code wizard who turns caffeine into beautiful interfaces, making users go "Wow!" with 30% better engagement and apps that run 40% faster! 🚀<br/>
+🎨 By day, I'm dancing with React.js, Vue.js, and Node.js, while moonlighting as a blockchain sorcerer keeping AWS running smoother than a buttered penguin (99.9% uptime!) ✨<br/>
 🔮 When I'm not crafting pixel-perfect UIs or fighting bugs like a superhero, you'll find me making code so clean it sparkles - because that's how we roll in this magical realm of ones and zeros! 🦸‍♂️
 
 ## 🛠️ Core Competencies
